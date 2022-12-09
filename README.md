@@ -58,10 +58,6 @@ This website has 4 main routes :-
 
  <img src="https://i.imgur.com/byJqceV.png" alt="Main.png">
  
- Once User is logged IN 
- 
- <img src="https://i.imgur.com/rfws8zv.png" alt="Main.png">
- 
  If user is logged out 
  
  <img src="https://i.imgur.com/Ni53cfO.png" alt="Main.png">
