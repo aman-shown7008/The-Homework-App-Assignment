@@ -50,10 +50,6 @@ This website has 4 main routes :-
  
   <img src="https://i.imgur.com/Gp7suGN.png" alt="Main.png">
  
-3. Admin Page :- Here ADMIN users can manage all the users and also have the ability to change user roles.
-
- <img src="https://i.imgur.com/Pl6m5qJ.png" alt="Main.png">
- 
 4. LogIn/SignUp Page :- Users can login and sign up using this page.
 
  <img src="https://i.imgur.com/byJqceV.png" alt="Main.png">
