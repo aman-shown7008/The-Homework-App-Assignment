@@ -1,4 +1,4 @@
-# <h1>Movie-DataBase (Using React)</h1>
+# <h1>Movie-App (Using React)</h1>
 
 # About
 
