@@ -44,7 +44,7 @@ This website has 4 main routes :-
  
   <img src="https://i.imgur.com/Gp7suGN.png" alt="Main.png">
  
-4. LogIn/SignUp Page :- Users can login and sign up using this page.
+3. LogIn/SignUp Page :- Users can login and sign up using this page.
 
  <img src="https://i.imgur.com/byJqceV.png" alt="Main.png">
  
@@ -53,7 +53,7 @@ This website has 4 main routes :-
  <img src="https://i.imgur.com/Ni53cfO.png" alt="Main.png">
  
 # Inspiration & Difficulties
-This project challenged me in ways i couldnt think of. Firstly i learned about how to structure a proper database to store userData as well as movies data. Then i learned how to structure my backend using Node and Express. I also learned various new CSS properties while designing the frontEnd part. Overall i am satisfied with the project and i hope you like it.
+In this project first I have to think and learned about the structure and layout of web Application.After that I learned how to get the userData and movies Data.Then i think how to structure my backend using Node and Express.In this I also learned about various hooks and some more property of a CSS and designing the front-end part also.Thankyou
 
 # API Calls
 Various APIs provide means to add, delete, edit an item in the database. They are as follows :-
